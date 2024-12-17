@@ -14,7 +14,7 @@
 
     // 原始 JS 文件和替换的 URL
     const originalJsUrl = '/adminown/newvideo/video8.10.min.js';
-    const replacementJsUrl = 'https://cdn.jsdelivr.net/gh/tkdwbiao/my-js-library@main/xd_js/xidian_video8.10.min.js';
+    const replacementJsUrl = 'https://cdn.jsdelivr.net/gh/tkdwbiao/my-js-library@main/xd_js/wangke/xidian_video8.10.min.js';
 
     // 使用 MutationObserver 替换动态加载的 <script> 标签
     const observer = new MutationObserver(mutations => {
